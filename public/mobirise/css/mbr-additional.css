@@ -1056,6 +1056,19 @@ a {
     left: -1rem;
   }
 }
+.cid-sE0E41tqfx .image-wrapper {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-right: 1rem;
+  overflow: hidden;
+}
+.cid-sE0E41tqfx .image-wrapper img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
 .cid-sEsv43Ja3M {
   padding-top: 6rem;
   padding-bottom: 6rem;
